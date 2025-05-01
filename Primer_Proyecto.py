@@ -1,0 +1,1 @@
+print("el nombre de tu linea de cerveza \nes:"+input("Año de nacimiento:")+" "+input("Nombre de la ciudad donde vives:"))
